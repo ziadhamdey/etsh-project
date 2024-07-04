@@ -24,7 +24,6 @@ window.addEventListener('resize', () => {
         mobile_nav_button.style.display = 'none';
         mo_nav_button_close.style.display = 'none';
     }else{
-        navBar.style.display = 'none';
         mobile_nav_button.style.display = 'block';
         mo_nav_button_close.style.display = 'none';
     }
