@@ -727,7 +727,7 @@ a {
 }
 
 .review-card{
-  background-image: url(../res/designs/Card-background.png);
+  background-image: url(res/designs/Card-background.png);
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
